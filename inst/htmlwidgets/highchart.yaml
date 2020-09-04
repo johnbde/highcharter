@@ -12,39 +12,39 @@ dependencies:
     src: "htmlwidgets/lib/highcharts"
     script:
     - highcharts.js
-    - highcharts-3d.js
+#    - highcharts-3d.js
     - highcharts-more.js
-    - modules/stock.js
-    - modules/map.js
+#    - modules/stock.js
+#    - modules/map.js
     - modules/annotations.js
     - modules/data.js
-    - modules/drilldown.js
+#    - modules/drilldown.js
     - modules/item-series.js
     - modules/offline-exporting.js
     - modules/overlapping-datalabels.js
     - modules/exporting.js
     - modules/export-data.js
-    - modules/funnel.js
-    - modules/heatmap.js
-    - modules/treemap.js
-    - modules/sankey.js
-    - modules/dependency-wheel.js
-    - modules/organization.js
-    - modules/solid-gauge.js
-    - modules/streamgraph.js
-    - modules/sunburst.js
-    - modules/vector.js
-    - modules/wordcloud.js
-    - modules/xrange.js
-    - modules/tilemap.js
-    - modules/venn.js
-    - modules/gantt.js
-    - modules/timeline.js
-    - modules/parallel-coordinates.js
-    - modules/bullet.js
+#    - modules/funnel.js
+#    - modules/heatmap.js
+#    - modules/treemap.js
+#    - modules/sankey.js
+#    - modules/dependency-wheel.js
+#    - modules/organization.js
+#    - modules/solid-gauge.js
+#    - modules/streamgraph.js
+#    - modules/sunburst.js
+#    - modules/vector.js
+#    - modules/wordcloud.js
+#    - modules/xrange.js
+#    - modules/tilemap.js
+#    - modules/venn.js
+#    - modules/gantt.js
+#    - modules/timeline.js
+#    - modules/parallel-coordinates.js
+#    - modules/bullet.js
     - modules/coloraxis.js
-    - modules/dumbbell.js
-    - modules/lollipop.js
+#    - modules/dumbbell.js
+#    - modules/lollipop.js
     - modules/series-label.js
 #    - modules/drag-panes.js
 #    - modules/marker-clusters.js
@@ -80,7 +80,7 @@ dependencies:
 #    - modules/stock-tools.js
 #    - modules/treegrid.js
 #    - plugins/grouped-categories.js
-    - plugins/motion.js
+#    - plugins/motion.js
 #    - plugins/multicolor_series.js
 #    - plugins/highcharts-regression.js
 #    - plugins/pattern-fill-v2.js
@@ -91,7 +91,7 @@ dependencies:
 #    - custom/appear.js    
 #    - custom/symbols-extra.js
 #    - custom/text-symbols.js
-    - modules/boost.js
+#    - modules/boost.js
     stylesheet:
-    - css/motion.css
+ #   - css/motion.css
  #   - css/htmlwdgtgrid.css
