@@ -15,7 +15,7 @@ dependencies:
 #    - highcharts-3d.js
     - highcharts-more.js
 #    - modules/stock.js
-#    - modules/map.js
+    - modules/map.js
     - modules/annotations.js
     - modules/data.js
 #    - modules/drilldown.js
